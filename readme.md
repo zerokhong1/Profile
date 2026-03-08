@@ -1,10 +1,10 @@
-# Luu Thai (Cong Thai)
+# Luu Thai
 
 **SLAM & Computer Vision Researcher** — Geometry-aware 3D Gaussian Splatting for Visual SLAM
 
 ## Current Research
 
-Developing modifications to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) by integrating **Triangulation-Guided 3D Gaussian Splatting (TriaGS)** components for improved mapping quality in real-time visual SLAM systems.
+Developing modifications to [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM) by integrating  components for improved mapping quality in real-time visual SLAM systems.
 
 **Key contributions:**
 - Parallax-based keyframe selection for better multi-view coverage
